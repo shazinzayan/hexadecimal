@@ -1,0 +1,38 @@
+p{
+    color:#d0d0d0;
+}
+
+.header{
+    background-color: #c0c0c0;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+
+}
+p,h2{
+    text-align: center;
+}
+h1{
+    padding-left: 550px;
+}
+body{
+
+    background-color: #808080;
+
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+
